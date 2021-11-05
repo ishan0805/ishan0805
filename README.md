@@ -1,16 +1,25 @@
-### Hi there 👋
+ Hi there, I'm Ishan! 👋  
+### *Flutter Developer* 👩‍💻 🎉
 
-<!--
-**ishan0805/ishan0805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I am currently working as a Flutter Developer at Masters India...
 
-Here are some ideas to get you started:
+👯 ... and if I am free, always open for collaborations!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/ishan0805/)  .
+
+[![Ishan's github stats](https://github-readme-stats.vercel.app/api?username=ishan0805&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ishan0805/github-readme-stats)
+
+
+
+## Worked On
+
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+
+
+
+
+
+
+
+
+
