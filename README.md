@@ -1,5 +1,5 @@
  Hi there, I'm Ishan! 👋  
-### *Flutter Developer* 👩‍💻 🎉
+### *Software Developer* 👩‍💻 🎉
 
 🔭 I am currently working as a Software Developer at Masters India...
 
