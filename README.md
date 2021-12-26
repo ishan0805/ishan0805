@@ -1,7 +1,7 @@
  Hi there, I'm Ishan! 👋  
 ### *Flutter Developer* 👩‍💻 🎉
 
-🔭 I am currently working as a Flutter Developer at Masters India...
+🔭 I am currently working as a Software Developer at Masters India...
 
 👯 ... and if I am free, always open for collaborations!
 
