@@ -15,7 +15,7 @@
  Hi there, I'm Ishan! 👋  
 ### *Software Developer* 👩‍💻 🎉
 
-🔭 I am currently working as a Software Developer at Masters India...
+🔭 I am currently working as a Software Developer at Google ...
 
 👯 ... and if I am free, always open for collaborations!
 
